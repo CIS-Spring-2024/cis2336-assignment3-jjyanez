@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: rgb(191, 0, 34);
+    color: whitesmoke;
+    padding: 20px 8px;
+    display: flex;
+    text-align: left;
+}
+footer {
+    text-align: center;
+    padding: 20px 10px;
+    background-color: #590b0b;
+    color: whitesmoke;
+}
+footer.p{
+    text-align: left;
+}
